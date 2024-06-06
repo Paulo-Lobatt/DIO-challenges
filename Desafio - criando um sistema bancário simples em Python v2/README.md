@@ -8,3 +8,5 @@ O sistema bancário permite que os usuários realizem operações bancárias bá
 - Depósito
 - Saque
 - Extrato
+- User
+- Tipo de conta
